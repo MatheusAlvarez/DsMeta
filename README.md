@@ -62,6 +62,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - TypeScript
 - ReactJS
 - HTML
+- CSS
 
 ### **Ambiente de desenvolvimento**
 
