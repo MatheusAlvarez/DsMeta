@@ -30,7 +30,7 @@ A aplicação consiste em uma página web com uma listagem de vendas. A página 
 
 - [x] Visualizar as vendas de cada vendedor
 - [x] Filtrar vendas por data 
-- [x] Enviar SMS informando o nome e o valor da venda 
+- [x] Enviar SMS informando o nome do vendedor e o valor da venda 
 
 ---
 
